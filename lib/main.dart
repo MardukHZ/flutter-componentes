@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Material App',
+      title: 'App Componentes',
       //home: HomePage(),
       initialRoute: '/',
       routes: <String,WidgetBuilder>{
